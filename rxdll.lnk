@@ -1,0 +1,6 @@
+SYSTEM os2v2_dll initinstance terminstance
+OPTION manyautodata
+EXPORT RxDllLoadFuncs
+EXPORT RxDllDropFuncs
+EXPORT RxDllFunc1
+FILE rxdll
